@@ -1,15 +1,3 @@
-target/
-
-# Eclipse generated
-.apt_generated/
-.settings/
-.project
-.classpath
-.factorypath
-MANIFEST.MF
-
-# MacOS system files
-.DS_Store
-
-# Asciidoc rendered
-README.html
+.idea
+research/target
+*.iml
